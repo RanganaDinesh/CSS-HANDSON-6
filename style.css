@@ -312,7 +312,7 @@ h2{
     height: 100px;
    position: absolute;
     bottom: 100px;
-    left: 510PX;
+    left: 490PX;
     z-index: 2;
 }
 .wheel img{
@@ -330,7 +330,7 @@ h2{
     height: 100px;
    position: absolute;
     bottom: 100px;
-    left: 310PX;
+    left: 290PX;
     z-index: 2;
 
 }
